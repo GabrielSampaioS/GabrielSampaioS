@@ -1,5 +1,5 @@
 - 👋 Ola, meu nome é Gabriel Sampaio
-- 👀 Eu tenho interesse em aprender programação na parte do back-end e criar alguns projetos próprio utilizando C++ e Arduino, que são atualmente os assuntos que mais entendo 
+- 👀 Eu tenho interesse em aprender programação na parte do back-end e criar alguns projetos próprio utilizando C++, C# e Arduino, que são atualmente os assuntos que mais entendo 
 - 🌱 Estou atualmente estudando o basico sobre programação e banco de dados para conseguir unir ambos em programas
 - 📫 Entre em contato pelo e-mail: gabrielssampio42@gmail.com
 
