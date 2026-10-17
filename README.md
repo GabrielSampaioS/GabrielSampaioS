@@ -14,25 +14,9 @@
 ╚════██║██╔══██║██║╚██╔╝██║██╔═══╝ ██╔══██║██║██║   ██║
 ███████║██║  ██║██║ ╚═╝ ██║██║     ██║  ██║██║╚██████╔╝
 ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝ ╚═════╝ 
-
-┌──────────────────────────────────────────────────────────┐
-│ ● ● ●                           gabriel@backend:~/server │
-├──────────────────────────────────────────────────────────┤
-│ $ curl -X GET https://api.gabriel.dev/me                 │
-│                                                          │
-│ HTTP/1.1 200 OK                                          │
-│ {                                                        │
-│   "name": "Gabriel Sampaio",                             │
-│   "role": "Back-end Developer",                          │
-│   "stack": ["Node.js", "C++", "SQL", "MongoDB"],         │
-│   "studying": ["Architecture", "REST APIs"],             │
-│   "status": "building"                                   │
-│ }                                                        │
-│ $ _                                                      │
-└──────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://raw.githubusercontent.com/GabrielSampaioS/GabrielSampaioS/main/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar">
+<img src="https://raw.githubusercontent.com/GabrielSampaioS/GabrielSampaioS/main/terminal.svg" alt="Terminal digitando: curl na API pessoal de Gabriel Sampaio" width="640">
 
 </div>
 
@@ -42,7 +26,7 @@
 
 🚀 Gosto de desenvolver projetos próprios utilizando **Node.js**, **C++**, **SQL** e **MongoDB**
 
-📚 Atualmente estudando **arquitetura de software**, **APIs REST** e **banco de dados** para criar soluções
+📚 Atualmente estudando **arquitetura de software**, **APIs REST** e **banco de dados** para criar soluções mais escaláveis e bem estruturadas
 
 ## 🛠️ Tecnologias
 
