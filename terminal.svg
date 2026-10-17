@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="298" viewBox="0 0 640 298" role="img" aria-label="Terminal: curl na API pessoal de Gabriel Sampaio, Back-end Developer">
+<style>
+text{font-family:Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace;font-size:14px;white-space:pre}
+@keyframes t0{0%,6.928%{width:0;animation-timing-function:steps(64,end)}29.099%{width:537.6px}99.942%{width:537.6px;animation-timing-function:step-end}100%{width:0}}
+.t0{animation:t0 17.32s infinite}
+@keyframes k0{0%{opacity:0;transform:translateX(0);animation-timing-function:step-end}6.928%{opacity:1;transform:translateX(0);animation-timing-function:steps(64,end)}29.099%{opacity:1;transform:translateX(537.6px);animation-timing-function:step-end}29.215%{opacity:0;transform:translateX(537.6px)};100%{opacity:0}}
+.k0{animation:k0 17.32s infinite}
+@keyframes t1{0%,33.141%{width:0;animation-timing-function:steps(15,end)}35.739%{width:126.0px}99.942%{width:126.0px;animation-timing-function:step-end}100%{width:0}}
+.t1{animation:t1 17.32s infinite}
+@keyframes k1{0%{opacity:0;transform:translateX(0);animation-timing-function:step-end}33.141%{opacity:1;transform:translateX(0);animation-timing-function:steps(15,end)}35.739%{opacity:1;transform:translateX(126.0px);animation-timing-function:step-end}35.855%{opacity:0;transform:translateX(126.0px)};100%{opacity:0}}
+.k1{animation:k1 17.32s infinite}
+@keyframes t2{0%,36.605%{width:0;animation-timing-function:steps(1,end)}36.778%{width:8.4px}99.942%{width:8.4px;animation-timing-function:step-end}100%{width:0}}
+.t2{animation:t2 17.32s infinite}
+@keyframes k2{0%{opacity:0;transform:translateX(0);animation-timing-function:step-end}36.605%{opacity:1;transform:translateX(0);animation-timing-function:steps(1,end)}36.778%{opacity:1;transform:translateX(8.4px);animation-timing-function:step-end}36.894%{opacity:0;transform:translateX(8.4px)};100%{opacity:0}}
+.k2{animation:k2 17.32s infinite}
+@keyframes t3{0%,37.356%{width:0;animation-timing-function:steps(28,end)}40.589%{width:235.2px}99.942%{width:235.2px;animation-timing-function:step-end}100%{width:0}}
+.t3{animation:t3 17.32s infinite}
+@keyframes k3{0%{opacity:0;transform:translateX(0);animation-timing-function:step-end}37.356%{opacity:1;transform:translateX(0);animation-timing-function:steps(28,end)}40.589%{opacity:1;transform:translateX(235.2px);animation-timing-function:step-end}40.704%{opacity:0;transform:translateX(235.2px)};100%{opacity:0}}
+.k3{animation:k3 17.32s infinite}
+@keyframes t4{0%,41.166%{width:0;animation-timing-function:steps(31,end)}44.746%{width:260.4px}99.942%{width:260.4px;animation-timing-function:step-end}100%{width:0}}
+.t4{animation:t4 17.32s infinite}
+@keyframes k4{0%{opacity:0;transform:translateX(0);animation-timing-function:step-end}41.166%{opacity:1;transform:translateX(0);animation-timing-function:steps(31,end)}44.746%{opacity:1;transform:translateX(260.4px);animation-timing-function:step-end}44.861%{opacity:0;transform:translateX(260.4px)};100%{opacity:0}}
+.k4{animation:k4 17.32s infinite}
+@keyframes t5{0%,45.323%{width:0;animation-timing-function:steps(48,end)}50.866%{width:403.2px}99.942%{width:403.2px;animation-timing-function:step-end}100%{width:0}}
+.t5{animation:t5 17.32s infinite}
+@keyframes k5{0%{opacity:0;transform:translateX(0);animation-timing-function:step-end}45.323%{opacity:1;transform:translateX(0);animation-timing-function:steps(48,end)}50.866%{opacity:1;transform:translateX(403.2px);animation-timing-function:step-end}50.982%{opacity:0;transform:translateX(403.2px)};100%{opacity:0}}
+.k5{animation:k5 17.32s infinite}
+@keyframes t6{0%,51.443%{width:0;animation-timing-function:steps(44,end)}56.524%{width:369.6px}99.942%{width:369.6px;animation-timing-function:step-end}100%{width:0}}
+.t6{animation:t6 17.32s infinite}
+@keyframes k6{0%{opacity:0;transform:translateX(0);animation-timing-function:step-end}51.443%{opacity:1;transform:translateX(0);animation-timing-function:steps(44,end)}56.524%{opacity:1;transform:translateX(369.6px);animation-timing-function:step-end}56.640%{opacity:0;transform:translateX(369.6px)};100%{opacity:0}}
+.k6{animation:k6 17.32s infinite}
+@keyframes t7{0%,57.102%{width:0;animation-timing-function:steps(38,end)}61.490%{width:319.2px}99.942%{width:319.2px;animation-timing-function:step-end}100%{width:0}}
+.t7{animation:t7 17.32s infinite}
+@keyframes k7{0%{opacity:0;transform:translateX(0);animation-timing-function:step-end}57.102%{opacity:1;transform:translateX(0);animation-timing-function:steps(38,end)}61.490%{opacity:1;transform:translateX(319.2px);animation-timing-function:step-end}61.605%{opacity:0;transform:translateX(319.2px)};100%{opacity:0}}
+.k7{animation:k7 17.32s infinite}
+@keyframes t8{0%,62.067%{width:0;animation-timing-function:steps(1,end)}62.240%{width:8.4px}99.942%{width:8.4px;animation-timing-function:step-end}100%{width:0}}
+.t8{animation:t8 17.32s infinite}
+@keyframes k8{0%{opacity:0;transform:translateX(0);animation-timing-function:step-end}62.067%{opacity:1;transform:translateX(0);animation-timing-function:steps(1,end)}62.240%{opacity:1;transform:translateX(8.4px);animation-timing-function:step-end}62.356%{opacity:0;transform:translateX(8.4px)};100%{opacity:0}}
+.k8{animation:k8 17.32s infinite}
+@keyframes t9{0%,65.127%{width:0;animation-timing-function:steps(26,end)}71.132%{width:218.4px}99.942%{width:218.4px;animation-timing-function:step-end}100%{width:0}}
+.t9{animation:t9 17.32s infinite}
+@keyframes k9{0%{opacity:0;transform:translateX(0);animation-timing-function:step-end}65.127%{opacity:1;transform:translateX(0);animation-timing-function:steps(26,end)}71.132%{opacity:1;transform:translateX(218.4px);animation-timing-function:step-end}99.942%{opacity:1;transform:translateX(218.4px);animation-timing-function:step-end}100%{opacity:0;transform:translateX(0)}}
+.k9{animation:k9 17.32s infinite}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+.b9{animation:blink 1s step-end infinite}
+</style>
+<rect x="0.5" y="0.5" width="639" height="297" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 40 V10.5 a10 10 0 0 1 10 -10 H629.5 a10 10 0 0 1 10 10 V40 Z" fill="#161b22"/>
+<line x1="0" y1="40.5" x2="640" y2="40.5" stroke="#30363d"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="64" cy="20" r="6" fill="#27c93f"/>
+<text x="320.0" y="25" text-anchor="middle" fill="#8b949e" style="font-size:12px">gabriel@backend: ~/server</text>
+<clipPath id="c0"><rect class="t0" x="24" y="54" width="0" height="22"/></clipPath><text x="24" y="70" xml:space="preserve" clip-path="url(#c0)"><tspan fill="#3fb950">gabriel@backend</tspan><tspan fill="#79c0ff">:~/server</tspan><tspan fill="#c9d1d9">$ </tspan><tspan fill="#c9d1d9">curl -X GET https://api.gabriel.dev/me</tspan></text>
+<rect class="k0" x="24" y="56" width="8" height="17" fill="#3fb950" opacity="0"/>
+<clipPath id="c1"><rect class="t1" x="24" y="76" width="0" height="22"/></clipPath><text x="24" y="92" xml:space="preserve" clip-path="url(#c1)"><tspan fill="#3fb950">HTTP/1.1 200 OK</tspan></text>
+<rect class="k1" x="24" y="78" width="8" height="17" fill="#3fb950" opacity="0"/>
+<clipPath id="c2"><rect class="t2" x="24" y="98" width="0" height="22"/></clipPath><text x="24" y="114" xml:space="preserve" clip-path="url(#c2)"><tspan fill="#c9d1d9">{</tspan></text>
+<rect class="k2" x="24" y="100" width="8" height="17" fill="#3fb950" opacity="0"/>
+<clipPath id="c3"><rect class="t3" x="24" y="120" width="0" height="22"/></clipPath><text x="24" y="136" xml:space="preserve" clip-path="url(#c3)"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">"name"</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#ffa657">"Gabriel Sampaio"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<rect class="k3" x="24" y="122" width="8" height="17" fill="#3fb950" opacity="0"/>
+<clipPath id="c4"><rect class="t4" x="24" y="142" width="0" height="22"/></clipPath><text x="24" y="158" xml:space="preserve" clip-path="url(#c4)"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">"role"</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#ffa657">"Back-end Developer"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<rect class="k4" x="24" y="144" width="8" height="17" fill="#3fb950" opacity="0"/>
+<clipPath id="c5"><rect class="t5" x="24" y="164" width="0" height="22"/></clipPath><text x="24" y="180" xml:space="preserve" clip-path="url(#c5)"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">"stack"</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#ffa657">"Node.js"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"C++"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"SQL"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"MongoDB"</tspan><tspan fill="#c9d1d9">],</tspan></text>
+<rect class="k5" x="24" y="166" width="8" height="17" fill="#3fb950" opacity="0"/>
+<clipPath id="c6"><rect class="t6" x="24" y="186" width="0" height="22"/></clipPath><text x="24" y="202" xml:space="preserve" clip-path="url(#c6)"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">"studying"</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#ffa657">"Architecture"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"REST APIs"</tspan><tspan fill="#c9d1d9">],</tspan></text>
+<rect class="k6" x="24" y="188" width="8" height="17" fill="#3fb950" opacity="0"/>
+<clipPath id="c7"><rect class="t7" x="24" y="208" width="0" height="22"/></clipPath><text x="24" y="224" xml:space="preserve" clip-path="url(#c7)"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">"status"</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#ffa657">"building scalable things"</tspan></text>
+<rect class="k7" x="24" y="210" width="8" height="17" fill="#3fb950" opacity="0"/>
+<clipPath id="c8"><rect class="t8" x="24" y="230" width="0" height="22"/></clipPath><text x="24" y="246" xml:space="preserve" clip-path="url(#c8)"><tspan fill="#c9d1d9">}</tspan></text>
+<rect class="k8" x="24" y="232" width="8" height="17" fill="#3fb950" opacity="0"/>
+<clipPath id="c9"><rect class="t9" x="24" y="252" width="0" height="22"/></clipPath><text x="24" y="268" xml:space="preserve" clip-path="url(#c9)"><tspan fill="#3fb950">gabriel@backend</tspan><tspan fill="#79c0ff">:~/server</tspan><tspan fill="#c9d1d9">$ </tspan></text>
+<g class="b9"><rect class="k9" x="24" y="254" width="8" height="17" fill="#3fb950" opacity="0"/></g>
+</svg>
