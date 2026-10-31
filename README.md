@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,60:1a1a1a,100:3a3a3a&section=header&text=&fontSize=0" width="100%" alt="">
 
-<img src="https://raw.githubusercontent.com/GabrielSampaioS/GabrielSampaioS/main/terminal.svg" alt="Terminal pessoal de Gabriel Sampaio" width="460">
+<img src="https://raw.githubusercontent.com/GabrielSampaioS/GabrielSampaioS/main/assets/terminal.svg" alt="Terminal pessoal de Gabriel Sampaio" width="460">
 
 <br><br>
 
