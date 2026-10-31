@@ -107,7 +107,7 @@ Utilizo o LeetCode para praticar resolução de problemas, fortalecer minha lóg
 <div align="center">
 
 <a href="https://leetcode.com/u/gabrielsampaios/">
-<img src="assets/leetcode-gra'1ph.svg" alt="Histórico de submissões no LeetCode" width="100%">
+<img src="assets/leetcode-graph.svg" alt="Histórico de submissões no LeetCode" width="100%">
 </a>
 
 <a href="https://leetcode.com/u/gabrielsampaios/"><b>[ visitar perfil no LeetCode → ]</b></a>
